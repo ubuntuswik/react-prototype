@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "coenraads.bracket-pair-colorizer",
+        "vscode-icons-team.vscode-icons",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "wix.vscode-import-cost",
+        "oderwat.indent-rainbow",
+        "esbenp.prettier-vscode",
+        "stylelint.vscode-stylelint",
+        "visualstudioexptteam.vscodeintellicode",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
